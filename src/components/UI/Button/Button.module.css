@@ -17,3 +17,9 @@
   background: #245fbd;
   box-shadow: 0 0 8px rgba(50, 50, 50, 0.25);
 }
+
+@media (min-width: 700px) {
+  .button {
+    width: auto;
+  }
+}
